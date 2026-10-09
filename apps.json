@@ -1,0 +1,38 @@
+[
+  {
+    "name": "PWA Timer Demo",
+    "shortName": "Timer",
+    "repo": "pwa-timer-demo",
+    "description": "オフライン対応のシンプルなPWAタイマー"
+  },
+  {
+    "name": "文机 — Web小説の執筆と管理",
+    "shortName": "文机",
+    "repo": "novelwrite-pwa",
+    "description": "端末内で小説の本文・シーン・キャラクターを管理する執筆アプリ"
+  },
+  {
+    "name": "小説リーダー",
+    "shortName": "小説リーダー",
+    "repo": "novel-reader-pwa",
+    "description": "JSON形式の小説データを読み込んで閲覧するローカル対応リーダー"
+  },
+  {
+    "name": "英単語単語帳",
+    "shortName": "英単語帳",
+    "repo": "english-card-app-pwa",
+    "description": "フラッシュカード・4択クイズ・単語一覧で学習できる英単語帳"
+  },
+  {
+    "name": "よりみち前の30分",
+    "shortName": "よりみち30分",
+    "repo": "study-schedule-app-wpa",
+    "description": "毎日の勉強と提出物を端末内で管理するオフライン対応PWA"
+  },
+  {
+    "name": "好きな曲アンケート",
+    "shortName": "曲アンケート",
+    "repo": "favorite-song-survey-pwa",
+    "description": "好きな曲を記録し、人気曲と自分の音楽傾向を調べるPWA"
+  }
+]
